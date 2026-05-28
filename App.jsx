@@ -130,7 +130,7 @@ Gracias por permitirme estar en este día tan especial.
 Te amo muchísimo.
 Espero que este cumpleaños te haga sentir tan amada como mereces.
 
-Ahora sal… afuera estamos tu perrita y yo esperándote, con mucho amor, porque queríamos verte sonreír.`,
+Ahora sal… afuera estamos Ume y yo esperándote, con mucho amor, porque queríamos verte sonreír.`,
     button: 'Ver otra vez ❤️',
     final: true
   }
