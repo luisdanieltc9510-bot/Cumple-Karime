@@ -61,10 +61,11 @@ Espero de corazón que se cumplan tus deseos, tus sueños y cada una de las meta
   {
     label: 'Pantalla 5',
     image: images.screen5,
-    kicker: 'Sin presión, solo amor',
-    title: 'Gracias por dejarme estar aquí',
+    kicker: 'Un momento bonito',
+    title: 'Gracias por compartir este día conmigo',
     text: `Me hace muy feliz poder compartir este cumpleaños contigo.
-No lo tomo a la ligera.
+
+Estar aquí, acompañarte y verte iniciar un nuevo año de vida es algo muy bonito para mí.
 
 Ojalá este sea uno de muchos momentos bonitos que la vida nos permita compartir.`,
     button: 'Tengo algo más para ti 🎁'
